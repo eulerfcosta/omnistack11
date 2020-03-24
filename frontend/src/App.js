@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         
+         Semana Omnistack 11.0
         </p>
         <a
           className="App-link"
