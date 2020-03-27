@@ -12,4 +12,4 @@ app.use(express.json());
 app.use(routes);
 app.use(errors());
 
-app.listen(4001);
+module.exports = app;
